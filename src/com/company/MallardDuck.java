@@ -10,7 +10,4 @@ public class MallardDuck extends Duck {
         System.out.println("I'm a real Mallard Duck!!!!");
     }
 
-    public static void main(String[] args) {
-
-    }
 }
